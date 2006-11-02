@@ -66,7 +66,7 @@ tone - L<Imager::Color> instance
 
 =head1 SEE ALSO
 
-L<Imager>, L<Imager::Color>, L<Imager::API>, L<Imager::APIRef>
+L<Imager>, L<Imager::Color>, L<Imager::API>, L<Imager::APIRef>, L<http://imager.perl.org/>
 
 =head1 AUTHOR
 

@@ -6,7 +6,7 @@ use Imager 0.54;
 use vars qw(@ISA $VERSION);
 
 BEGIN {
-    $VERSION = "0.01";
+    $VERSION = "0.02";
     eval {
         require XSLoader;
         XSLoader::load('Imager::Filter::Sepia', $VERSION);
